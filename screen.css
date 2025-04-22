@@ -1,0 +1,12 @@
+.inside {
+    padding: 0 0 0 820px;
+    top: 25px; 
+    position: absolute;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
